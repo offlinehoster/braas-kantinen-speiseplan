@@ -1,21 +1,20 @@
-Montag
-Fagottini mit Trüffelsauce und Parmesankäse	5,50 €
-Seelachsfilet mit Asiasauce Basamtireis und Thaigemüse	6,50 €
+Montag	
+Spaghetti mit Zucchini-Paprika-Ragout und Parmesankäse	5,50 €
+Seehechtfilet mit Rosmarinkartoffeln und Salati	6,50 €
 
 Dienstag	
-Möhrengemüse mit Frikadelle	5,50 €
-Hühnerfricasse mit Spargel, Champ. Und Risibisi	6,00 €
+Kohlroulade mit Specksauce und Salzkartoffeln	5,50 €
+Curry vom Schweini mit Basmatireis	6,00 €
 
 Mittwoch	
 Erbseneintopf mit Mettwurst und einem Brötchen	5,00 €
-Schweinefilet mit Pfeffersauce Steakhouse Pommes und Salati	6,50 €
+Maishähnchenbrust mit Baslikumsauce Kartoffelgratin und Spitzpaprika	7,00 €
 
 Donnerstag	
-Schnitzel vom Schweini mit Champignongsauce Pommes Frites	5,50 €
-Rindergulasch mit Spiralnudeln	6,00 €
+Phantomschnitzel vom Schweini mit Süßsauresauce und Pommes Frites	5,50 €
+Bärlauchbratwurst mit Rotkohl und Salzkartoffeln	5,50 €
 
 Freitag	
-Königsberger Klopse mit Kapernsauce,Reis und Rote Bete	5,50 €
-Backfisch mit Remoladensauce Blattspinat und Salzkartoffeln	6,50 €
+Gefüllte Paprikaschote mit Rahmsauce und Reis	5,50 €
+Knurrhahnfilet mit Kohlrabi a la creme und Salzkartoffeln	6,50 €
 
-	
