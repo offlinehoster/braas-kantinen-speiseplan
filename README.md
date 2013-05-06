@@ -1,17 +1,19 @@
-Montag	
-Penne Nudeln mit Bolognessauce vom Rind mit Parmesankäse	5,50 €
-Seelachsfilet mit mediteranem Gemüse und Kräuterkartoffeln	6,50 €
+# Montag	
+* Pasta mit Trüffelsauce Parmesankäse und Rucolastreifen	5,50 €
+* Seelachsfilet mit Rahmblumenkohl und Salzkartoffeln	6,50 €
 
-Dienstag	
-						5,50 €
-Hähnchencurry mit Bamuss und Basmatireis	6,00 €
+# Dienstag	
+* Segidiner Gulasch mit Sauerkraut und Salzkartoffeln	5,50 €
+* Cevapcici mit Tzaziki,Krautsalat , Pepperoni,Zwiebeln, Ajwar und Pommes Frites	6,00 €
 
-Donnerstag	
-Phantomschnitzel vom Schweini mit Champignonsauce und Pommes Frites	5,50 €
-Zigeunerbraten mit Kartoffelklößen und Blaukraut			6,00 €
+# Mittwoch	
+* Linseneintopf mit Wiener Würstchen und einem Brötchen	5,00 €
+* Phantomschnitzel vom Schweini mit Röstzwiebelsauce und Pommes Frites	5,50 €
 
-Freitag	
-Gefüllte Schweinenackensteaks mit Kartoffelgratin und Salati	6,00 €
-Knurrhahnfilet mit Currysauce Salzkartoffeln und Salati		6,50 €
+# Donnerstag 
+* Kantine geschlossen (Feiertag)
+
+# Freitag
+* Kantine geschlossen
 
 
