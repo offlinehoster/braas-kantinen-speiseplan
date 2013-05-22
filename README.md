@@ -1,22 +1,21 @@
-# Montag (13.05.2013)
-* Frische Tagliatelle mit Spargelragout und Parmesankäse	6,00 €
-* Seelachsfilet mit Oregano gebraten mit gefüllter Paprikaschote und Salzkartoffeln	6,50 €
+# Montag (20.05.2013)
 
-# Dienstag (14.05.2013)	
-* Möhrengemüse Bürgerlich mit Hackfleischfrikadelle	5,50 €
-* Pasta Live mit verschieden Zutaten frisch von unserem Spaghettikoch Ekkihardo	6,00 €
+# Dienstag (21.05.2013)	
+* Mediterane Bratwursti mit Sauerkraut und Bratkartoffeln	5,50 €
+* Bunter Salatteller mit Mozzarellasticks und Brot	6,50 €
 
-# Mittwoch (15.05.2013)
-* Kartoffeleintopf mit Wiener Würstchen und einem Brötchen	5,00 €
-* Krustenbraten mit Sauerkraut und Kartoffelpüree	5,50 €
+# Mittwoch (22.05.2013)
+* Erbseneintopf mit Mettwursti und einem Brötchen	5,00 €
+* Toskanischer Schweinelummerbraten mit Ratatouillegemüse und Kartoffelgratin	6,50 €
 
-# Donnerstag (16.05.2013) 
-* Phantomschnitzel vom Schweini mit Zigeunersauce und Pommes Frites	5,50 €
-* Sauerbraten mit Apfelrotkohl und Kartoffelklößen	7,50 €
+# Donnerstag (23.05.2013) 
+* Phantomschnitzel vom Schweini mit Pfeffersauce und Pommes Frites	5,50 €
+* Rindergulsch mit Spiralnudeln	6,00 €
 
-# Freitag (17.05.2013)
-* 1/2 Hähnchen mit Reis und Salat	5,50 €
-* Paniertes Seelachsfilet mit Remoladensauce,Salzkartoffeln und Salat	6,50 €
+# Freitag (24.05.2013)
+* Kohlroulade mit Specksauce und Salzkartoffeln	5,50 €
+* Seelachsfilet mit Kartoffelkruste Shrimpssauce dazu Spinat a la Vollhorst und Büntem Reis	6,50 €
+
 
 
 
