@@ -1,21 +1,17 @@
-# Montag (20.05.2013)
+# Montag (27.05.2013)
+* Tortellini Formaggio mit Schmelzkäsesauce und Parmesankäse	5,50 €
+* Backfisch mit Remoladensauce Salzkartoffeln und Blattspinat	6,50 €
 
-# Dienstag (21.05.2013)	
-* Mediterane Bratwursti mit Sauerkraut und Bratkartoffeln	5,50 €
-* Bunter Salatteller mit Mozzarellasticks und Brot	6,50 €
+# Dienstag (28.05.2013)	
+* Fleischkäse mit Speigelein und lauwarmen Speck-Kartoffelsalat	5,50 €
+* Hähnchen Süß-Sauer mit Gemüsestreifen und Basmatireis	6,00 €
 
-# Mittwoch (22.05.2013)
-* Erbseneintopf mit Mettwursti und einem Brötchen	5,00 €
-* Toskanischer Schweinelummerbraten mit Ratatouillegemüse und Kartoffelgratin	6,50 €
+# Mittwoch (29.05.2013)
+* Erbseneintopf mit Wursti und einem Brötchen	5,00 €
+* Phantomschnitzel vom Schweini mit Asiasauce und Pommes Frites	5,50 €
 
-# Donnerstag (23.05.2013) 
-* Phantomschnitzel vom Schweini mit Pfeffersauce und Pommes Frites	5,50 €
-* Rindergulsch mit Spiralnudeln	6,00 €
+# Donnerstag (30.05.2013) 
+* no data
 
-# Freitag (24.05.2013)
-* Kohlroulade mit Specksauce und Salzkartoffeln	5,50 €
-* Seelachsfilet mit Kartoffelkruste Shrimpssauce dazu Spinat a la Vollhorst und Büntem Reis	6,50 €
-
-
-
-
+# Freitag (31.05.2013)
+* no data
