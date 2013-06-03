@@ -1,17 +1,20 @@
-# Montag (27.05.2013)
+# Montag (03.06.2013)
 * Tortellini Formaggio mit Schmelzkäsesauce und Parmesankäse	5,50 €
 * Backfisch mit Remoladensauce Salzkartoffeln und Blattspinat	6,50 €
 
-# Dienstag (28.05.2013)	
-* Fleischkäse mit Speigelein und lauwarmen Speck-Kartoffelsalat	5,50 €
-* Hähnchen Süß-Sauer mit Gemüsestreifen und Basmatireis	6,00 €
+# Dienstag (04.06.2013)	
+* Reibekuchen mit Apfelmus	5,00 €
+* Schweinelummersteak mit Zitronenpfeffer,Kartoffelgratin und Salati	6,50 €
 
-# Mittwoch (29.05.2013)
-* Erbseneintopf mit Wursti und einem Brötchen	5,00 €
-* Phantomschnitzel vom Schweini mit Asiasauce und Pommes Frites	5,50 €
+# Mittwoch (05.06.2013)
+* Käse-Lauch-Eintopf mit einem Brötchen	5,00 €
+* Hähnchencurry mit Basmatireis	5,50 €
 
-# Donnerstag (30.05.2013) 
-* no data
+# Donnerstag (06.06.2013) 
+* Phantomschnitzel vom Schweini mit Spargel-Hollandaise-Sauce und Pommes Frites	5,50 €
+* Kalbsrückensteak mit Pfeffersauce Rosmarinkartoffeln und Salati	10,00 €
 
-# Freitag (31.05.2013)
-* no data
+# Freitag (07.06.2013)
+* Wirsingroulade mit Rahmsauce und Salzkartoffeln	5,00 €
+* Lachsfilet mit Basilikumsauce, Salzkartoffeln und Spinat	7,50 €
+
