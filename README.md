@@ -1,19 +1,20 @@
-# Montag (10.06.2013)
-* Penne a la arrabiatta mit Parmesankäse	5,50 €
-* Seehechtfilet gebraten mit Asiasauce Basmatireis und Salat mit Curry-Mango-Dressing	6,50 €
+# Montag (17.06.2013)
+* Spaghetti Bolognese mit Parmesankäse	5,50 €
+* Kabeljaufilet mit Senfsauce,Salzkartoffeln und gefülltes Zucchinischiffchen	6,50 €
 
-# Dienstag (11.06.2013)	
-* Spaghetti mit Hähnchen-Pesto-Ragout	5,50 €
-* Rosa gebratene Argentische Steakhüfte mit Kartoffelgratin und Bohnen im Speckmantel	7,50 €
+# Dienstag (18.06.2013)	
+* Currywust in Mango- Chilisauce mit Pommes Frites	5,50 €
+* Pfefferspießbraten mit Kartoffelgratin und Salat	6,00 €
 
-# Mittwoch (12.06.2013)
-* Chili con Carne mit Blötchen	5,00 €
-* Krustenbraten mit Sauerkraut und Kartoffelklößen	5,50 €
+# Mittwoch (19.06.2013)
+* Kartoffeleintopf mit kleinen Geflügelklösschen und einem Brötchen	5,00 €
+* Segindergulasch mit Sauerkraut und Salzkartoffeln	5,50 €
 
-# Donnerstag (13.06.2013) 
-* Phantomschnitzel vom Schweini mit Champignonsauce  und Pommes Frites	5,50 €
-* Gyrosbratwurst mit Tzaziki, Paprikareis und Krautsalat	5,00 €
+# Donnerstag (20.06.2013) 
+* Phantomschnitzel vom Schweini mit Pfeffersauce  und Pommes Frites	5,50 €
+* Gefüllte Paprikaschote mit Tomatensauce und Reis	5,00 €
 
-# Freitag (14.06.2013)
-* Kohlroulade mit Specksauce und Salzkartoffeln	5,00 €
-* Seelachsfiletmit Thainudeln-Pfanne mit Gemüse und Currysauce und Wakame	6,50 €
+# Freitag (21.06.2013)
+* Rindfleischcurry sauscharf mit Basmatireis	6,00 €
+* Roter Knurrhahn mit spanischem Grillgemüse und  Kräuterkartoffeln	6,50 €
+
