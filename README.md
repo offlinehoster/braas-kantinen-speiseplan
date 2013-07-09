@@ -1,41 +1,41 @@
-# Montag (01.07.2013)
+# Montag (08.07.2013)
 ###### Anja
 * kein Essen
 
 ###### Kantine
-* geschlossen
+* Zitronengras-Kokos-Hähnchengeschnetzeltes mit Basmatireis und Paprika-Gurkensalat
 
-# Dienstag (02.07.2013)	
+# Dienstag (09.07.2013)	
 ###### Anja
-* Hähnchenbrustfilet in Zitronensauce, Gemüsereis, Dessert
+* Sommersalat, Dessert
 
 ###### Kantine
-* Königsberger Klopse mit Kapernsauce Salzkartoffeln und rote Bete Salat	5,00 €
-* Hähnchenbrustfilet mit Teryakisauce Reis und Wokgemüse	6,00 €
+* Penne mit Lachs-Kräutersauce und Parmesankäse	5,50 €
+* Lummerbraten mit Grillgemüse und Rosmarinkartoffeln	6,00 €
 
-# Mittwoch (03.07.2013)
+# Mittwoch (10.07.2013)
 ###### Anja
-* Putenbraten mit Ofenkartoffeln, Dessert
+* Indisches Curry, Hähnchenbrustfilet, Gemüse und Reis, Dessert
 
 ###### Kantine
-* Kartoffel-Möhreneintopf mit Wiener Würstchen  und einem Brötchen	5,00 €
-* Schweinefleischgyros mit Zwiebeln,Tzaziki,Krautsalat,Pepperoni und Pommes Frites	6,00 €
+* Spätzleeintopf mit Gemüse Mettwurst und einem Brötchen	5,00 €
+* Marinierte Hähnchenbrustinnenfilets mit Grillerkatoffeln und Salati	6,00 €
 
-# Donnerstag (04.07.2013) 
+# Donnerstag (11.07.2013) 
 ###### Anja
-* Thai - Curry, mit Hähnchenfleisch und Gemüse, Dessert
+* Tandoori Chicken, Fladenbrot und Dips, Dessert
 
 ###### Kantine
-* Phantomschnitzel vom Schweini mit Zigeunersauce und Pommes Frites	5,50 €
-* BiO TOrTeLLini	5,00 €
+* Phantomschnitzel vom Schweini mit Pfeffersauce und Pommes Frites	5,50 €
+* Moussaka mit Auberginen,Zucchini und Kartoffelscheiben	5,00 €
 
-# Freitag (05.07.2013)
+# Freitag (12.07.2013)
 ###### Anja
 * kein Essen
 
 ###### Kantine
-* Lammragout meditran mit Spinat Risotto	5,00 €
-* Rotbarschfilet in Kräutereihülle gebraten mit Remoladensauce Salzkartoffeln und Salat	6,50 €
+* Hackbraten mit Rahmsauce und Salzkartoffeln	5,00 €
+* Seelachsfilet mit Blattspinat und Salzkartoffeln	6,50 €
 
 
 
