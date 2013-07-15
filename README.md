@@ -1,42 +1,41 @@
-# Montag (08.07.2013)
+# Montag (15.07.2013)
 ###### Anja
 * kein Essen
 
 ###### Kantine
-* Zitronengras-Kokos-Hähnchengeschnetzeltes mit Basmatireis und Paprika-Gurkensalat
+* Gefüllte Teigtaschen mit Tomate-Basilikum, dazu Rinderbolognese und Parmesankäse	5,50 €
+* Roter Knurrhahn mit Spitzkohl in Curryrahm mit Chilikartoffeln	6,50 €
 
-# Dienstag (09.07.2013)	
+# Dienstag (16.07.2013)	
 ###### Anja
-* Sommersalat, Dessert
+* Pasta mit frischer Walnuss-Rucola-Pesto und Parmesan, Dessert
 
 ###### Kantine
-* Penne mit Lachs-Kräutersauce und Parmesankäse	5,50 €
-* Lummerbraten mit Grillgemüse und Rosmarinkartoffeln	6,00 €
+* Gulaschsuppe mit einem Brötchen	5,00 €
+* Gebratene Lummersteaks mit Kartoffelgratin und grünen Bohnen	6,00 €
 
-# Mittwoch (10.07.2013)
+# Mittwoch (17.07.2013)
 ###### Anja
-* Indisches Curry, Hähnchenbrustfilet, Gemüse und Reis, Dessert
+* Vom Grill : Nackensteak, Würstchen dazu Salat, Dessert
 
 ###### Kantine
-* Spätzleeintopf mit Gemüse Mettwurst und einem Brötchen	5,00 €
-* Marinierte Hähnchenbrustinnenfilets mit Grillerkatoffeln und Salati	6,00 €
+* Linseneintopf mit Wiener Würstchen und einem Brötchen	5,00 €
+* Hähnchenbrustfilet im Parmesanmantel mit Bandnudeln und Paprika-Zucchinigemüse	6,00 €
 
-# Donnerstag (11.07.2013) 
+# Donnerstag (18.07.2013) 
 ###### Anja
-* Tandoori Chicken, Fladenbrot und Dips, Dessert
+* Hähnchenbrustfilet in Orangensauce mit Gnocchi, Dessert
 
 ###### Kantine
-* Phantomschnitzel vom Schweini mit Pfeffersauce und Pommes Frites	5,50 €
-* Moussaka mit Auberginen,Zucchini und Kartoffelscheiben	5,00 €
+* Phantomschnitzel vom Schweini mit Champignonssauce und Pommes Frites	5,50 €
+* Hühnerfricasse mit Risibisi	5,50 €
 
-# Freitag (12.07.2013)
+# Freitag (19.07.2013)
 ###### Anja
 * kein Essen
 
 ###### Kantine
-* Hackbraten mit Rahmsauce und Salzkartoffeln	5,00 €
-* Seelachsfilet mit Blattspinat und Salzkartoffeln	6,50 €
-
+* Kantine ist am 19.07.13     geschlossen
 
 
 ---
