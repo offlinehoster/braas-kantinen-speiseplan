@@ -1,42 +1,37 @@
-# Montag (26.08.2013)
+# Montag (02.09.2013)
 ###### Anja
 * kein Essen
-
 ###### Kantine
-* Tagesgericht	5,00 €
-*	6,50 €
+* Rigatoni mit pikanter Salami-Napolisauce und Parmesankäse	5,50 €
+* Seelachsfilet Blummenkohl und Salzkartoffeln	6,50 €
 	
-# Dienstag (27.08.2013)	
+# Dienstag (03.09.2013)	
 ###### Anja
-* Hähnchenbrustfilet "Sweet Chilli" mit Paprika und Reis
-
+* Thailändisches "Red Curry", mit Gemüse und Reis, Dessert
 ###### Kantine
-* Tagesgericht	5,00 €
-* Parmesanhähnchenbrust mit  Rigatini, Tomatensauce und Salati	6,00 €
+* Fleischkäse mit Spiegelei und Stampfkatoffeln	5,00 €
+* Rindergulasch mit Spiralnudeln	6,00 €
 
-# Mittwoch (28.08.2013)
+# Mittwoch (04.09.2013)
 ###### Anja
-* Putenbraten in leichter Rotweinsauce mit Spätzle und Gemüse, Dessert
-
+*  Nudelauflauf mit Gemüse, frischer Tomatenhacksauce mit Käse überbacken, Dessert 
 ###### Kantine
-* Erbseneintopf mit Mettwursti und einem Brötchen	Tagesgericht	5,00 €
-* Schweinerückensteak mit Schmorzwiebeln         Tzaziki, Spitzpaprika und Rosmarinkartoffeln	6,00 €
+* Möhrengemüse Bürgerlich mit Hackfleischfrikadelle	5,00 €
+* Pikantes Geflügelcurry mit Koksmilch und Gemüsereis	6,00 €
 
-# Donnerstag (29.08.2013) 
+# Donnerstag (05.09.2013) 
 ###### Anja
 * kein Essen
-
 ###### Kantine
-* Tagesgericht	5,50 €
-* Schnitzel vom Schweini mit       Zigeunersauce und Pommes Frites	5,50 €
+* Schnitzel mit Pfefferrahmsauce und Pommes Frites	5,50 €
+* Sauerbraten mit Rotkohl und Kartoffelklößen	7,50 €
 
-# Freitag (30.08.2013)
+# Freitag (06.09.2013)
 ###### Anja
 * kein Essen
-
 ###### Kantine
-* Tagesgericht	5,00 €
-* St.Petersfischfilet in Curry-Zimtaroma gebraten mit Spaghettini und Fenchelgemüse	6,50 €
+* Kaseller mit Sauerkraut und Kartoffelpüree	5,00 €
+* Rotbarschfilet in Eihülle gebraten mit Speckkartoffeln und Salat	6,50 €
 
 
 ---
