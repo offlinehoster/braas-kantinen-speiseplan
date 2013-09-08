@@ -1,37 +1,37 @@
-# Montag (02.09.2013)
+# Montag (09.09.2013)
 ###### Anja
-* kein Essen
+* kein Essen (Vom 09.09.-22.09.2013 bleibt die Küche wegen Urlaub kalt :-))
 ###### Kantine
-* Rigatoni mit pikanter Salami-Napolisauce und Parmesankäse	5,50 €
-* Seelachsfilet Blummenkohl und Salzkartoffeln	6,50 €
+* Fagottini Pomodori mit Trüffelsauce und Rucolasalat	5,50 €
+* Seelachsfilet Weißweinsauce, Safranreis und Bambussgemüse	6,50 €
 	
-# Dienstag (03.09.2013)	
+# Dienstag (10.09.2013)	
 ###### Anja
-* Thailändisches "Red Curry", mit Gemüse und Reis, Dessert
+* kein Essen (Vom 09.09.-22.09.2013 bleibt die Küche wegen Urlaub kalt :-))
 ###### Kantine
-* Fleischkäse mit Spiegelei und Stampfkatoffeln	5,00 €
-* Rindergulasch mit Spiralnudeln	6,00 €
+* Erbseneintopf oder Gulaschsuppe mit einem Brötchen	5,00 €
+* Krustenbraten mit Sauerkraut und Schmorkartoffeln	6,00 €
 
-# Mittwoch (04.09.2013)
+# Mittwoch (11.09.2013)
 ###### Anja
-*  Nudelauflauf mit Gemüse, frischer Tomatenhacksauce mit Käse überbacken, Dessert 
-###### Kantine
-* Möhrengemüse Bürgerlich mit Hackfleischfrikadelle	5,00 €
-* Pikantes Geflügelcurry mit Koksmilch und Gemüsereis	6,00 €
+* kein Essen (Vom 09.09.-22.09.2013 bleibt die Küche wegen Urlaub kalt :-))
+##### Kantine
+* Käsespätzle mit Schmorzwiebeln und Salat	5,00 €
+* Schweinefilet mit Pfeffersauce Kartoffelgratin und Salat	6,50 €
 
-# Donnerstag (05.09.2013) 
+# Donnerstag (12.09.2013) 
 ###### Anja
-* kein Essen
+* kein Essen (Vom 09.09.-22.09.2013 bleibt die Küche wegen Urlaub kalt :-))
 ###### Kantine
-* Schnitzel mit Pfefferrahmsauce und Pommes Frites	5,50 €
-* Sauerbraten mit Rotkohl und Kartoffelklößen	7,50 €
+* Schnitzel mit Champignon - Sauce und Pommes Frites	5,50 €
+* Hackbraten mit Salzkartoffeln und Schwartwurzeln a la Creme	5,50 €
 
-# Freitag (06.09.2013)
+# Freitag (13.09.2013)
 ###### Anja
-* kein Essen
+* kein Essen (Vom 09.09.-22.09.2013 bleibt die Küche wegen Urlaub kalt :-))
 ###### Kantine
-* Kaseller mit Sauerkraut und Kartoffelpüree	5,00 €
-* Rotbarschfilet in Eihülle gebraten mit Speckkartoffeln und Salat	6,50 €
+* Lasagne Bolognes	5,50 €
+* Rotbarschfilet mit Zwiebel-Speck-Sauce, Spinatknödel und geschmortem Weißkohlgemüse	6,50 €
 
 
 ---
