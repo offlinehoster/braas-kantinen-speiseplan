@@ -1,42 +1,42 @@
-# Montag (16.09.2013)
+# Montag (23.09.2013)
 ###### Anja
-* kein Essen (Vom 09.09.-22.09.2013 bleibt die Küche wegen Urlaub kalt :-))
+* missing data input
 
 ###### Kantine
-* Spaghetti mit Schweinefiletstreifen und Champ. A la creme	5,50 €
-* Seelachsfilet paniert mit Remoladensauce, Salzkartoffeln und Salat	6,50 €
+* Königsberger Klopse mit Kapernsauce, Rote Bete Salat und Reis	5,50 €
+* Knurrhahnfilet mit Spinat Risotto und  Romanesco	6,50 €
 	
-# Dienstag (17.09.2013)	
+# Dienstag (24.09.2013)	
 ###### Anja
-* kein Essen (Vom 09.09.-22.09.2013 bleibt die Küche wegen Urlaub kalt :-))
+* missing data input
 
 ###### Kantine
-* Hochrippe vom Schweini mit Bratkartoffeln und Wirsinggemüse	5,50 €
-* Chili con Carne 	5,00 €
+* Linseneintopf mit Bockwurst und einem Brötchen	5,00 €
+* Hähnchenbrust mit Rahmsauce, Bratkartoffeln und Salat	5,50 €
 
-# Mittwoch (18.09.2013)
+# Mittwoch (25.09.2013)
 ###### Anja
-* kein Essen (Vom 09.09.-22.09.2013 bleibt die Küche wegen Urlaub kalt :-))
+* missing data input
 
 ##### Kantine
-* Linseneintopf mit Wiener und einem Brötchen	5,00 €
-* spaghetti aglio olio  aus der Wokpfanne	5,50 €
+* Pasta Live                    von Dr. Schmidt und Onkel Ekki	6,50 €
+* Pasta Live                    von Dr. Schmidt und Onkel Ekki	6,50 €
 
-# Donnerstag (19.09.2013) 
+# Donnerstag (26.09.2013) 
 ###### Anja
-* kein Essen (Vom 09.09.-22.09.2013 bleibt die Küche wegen Urlaub kalt :-))
+* missing data input
 
 ###### Kantine
-* Schnitzel mit Röstzwiebelsauce und Pommes Frites	5,50 €
-* Segedinergulasch mit Salzkartoffeln und Schmand	5,50 €
+* Schnitzel mit Pfeffersauce und Pommes Frites	5,50 €
+* Rindergulasch mit Spiralnudeln	6,00 €
 
-# Freitag (20.09.2013)
+# Freitag (27.09.2013)
 ###### Anja
-* kein Essen (Vom 09.09.-22.09.2013 bleibt die Küche wegen Urlaub kalt :-))
+* missing data input
 
 ###### Kantine
-* Möhrengemüse mit Kasseler	5,50 €
-* Seelachsfilet mit Kokossauce Basmatireis und   Zuccini-Paprika-Gemüse	6,50 €
+* Kohlroulade mit Bratensaucen und Salzkartoffeln	5,00 €
+* Lachsfilet mit Asiasauce Fenchel-Mango-Gemüse und  Spaghettini 	6,50 €
 
 ---
 (Alle Angaben ohne Gewähr)
