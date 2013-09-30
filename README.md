@@ -1,42 +1,41 @@
-# Montag (23.09.2013)
+# Montag (30.09.2013)
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Königsberger Klopse mit Kapernsauce, Rote Bete Salat und Reis	5,50 €
-* Knurrhahnfilet mit Spinat Risotto und  Romanesco	6,50 €
+* Pasta mit getrüffeltem Kalbsragout und Parmesankäse	5,50 €
+* Backfisch mit Remolade,               Salzkartoffeln und Salat	6,50 €
 	
-# Dienstag (24.09.2013)	
+# Dienstag (01.10.2013)	
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Linseneintopf mit Bockwurst und einem Brötchen	5,00 €
-* Hähnchenbrust mit Rahmsauce, Bratkartoffeln und Salat	5,50 €
+* Käse Lauch Eintopf mit gehacktem und Schmelzkäse	5,00 €
+* Kräuterbraten vom Schweinerücken mit grünen Bohnen und Kartoffelgratin	5,50 €
 
-# Mittwoch (25.09.2013)
+# Mittwoch (02.10.2013)
 ###### Anja
 * missing data input
 
 ##### Kantine
-* Pasta Live                    von Dr. Schmidt und Onkel Ekki	6,50 €
-* Pasta Live                    von Dr. Schmidt und Onkel Ekki	6,50 €
+* Rindfleischcurry mit Gemüse in  Teriyakisauce und Basmatireis	6,00 €
+* Schnitzel mit Zigeunersauce und Pommes Frites 	5,50 €
 
-# Donnerstag (26.09.2013) 
+# Donnerstag (03.10.2013) 
+###### Anja
+* Feiertag
+
+###### Kantine
+* Feiertag
+
+# Freitag (04.10.2013)
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Schnitzel mit Pfeffersauce und Pommes Frites	5,50 €
-* Rindergulasch mit Spiralnudeln	6,00 €
-
-# Freitag (27.09.2013)
-###### Anja
-* missing data input
-
-###### Kantine
-* Kohlroulade mit Bratensaucen und Salzkartoffeln	5,00 €
-* Lachsfilet mit Asiasauce Fenchel-Mango-Gemüse und  Spaghettini 	6,50 €
+* Kantine geschlossen	5,00 €
+* Kantine geschlossen	6,50 €
 
 ---
 (Alle Angaben ohne Gewähr)
