@@ -1,41 +1,40 @@
-# Montag (30.09.2013)
+# Montag (07.10.2013)
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Pasta mit getrüffeltem Kalbsragout und Parmesankäse	5,50 €
-* Backfisch mit Remolade,               Salzkartoffeln und Salat	6,50 €
 	
-# Dienstag (01.10.2013)	
+# Dienstag (08.10.2013)	
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Käse Lauch Eintopf mit gehacktem und Schmelzkäse	5,00 €
-* Kräuterbraten vom Schweinerücken mit grünen Bohnen und Kartoffelgratin	5,50 €
+* Frikadelle mit Hollandaise und Pommes Frites	5,00 €
+* Schweinerückensteak mit Pfeffersauce Bratkartoffeln und Salat	6,00 €
 
-# Mittwoch (02.10.2013)
+# Mittwoch (09.10.2013)
 ###### Anja
 * missing data input
 
 ##### Kantine
-* Rindfleischcurry mit Gemüse in  Teriyakisauce und Basmatireis	6,00 €
-* Schnitzel mit Zigeunersauce und Pommes Frites 	5,50 €
+* Erbseneintopf mit Mettwursti und einem Brötchen	5,00 €
+* Kasseler mit Sauerkraut und Kartoffelpüree	5,50 €
 
-# Donnerstag (03.10.2013) 
-###### Anja
-* Feiertag
-
-###### Kantine
-* Feiertag
-
-# Freitag (04.10.2013)
+# Donnerstag (10.10.2013) 
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Kantine geschlossen	5,00 €
-* Kantine geschlossen	6,50 €
+* Schnitzel mit Champignonrahmsauce und Pommes Frites 	5,50 €
+* Gänsekeule mit Apfelrotkohl und Kartoffelklößen 	8,50 €
+
+# Freitag (11.10.2013)
+###### Anja
+* missing data input
+
+###### Kantine
+* Rotkohlroulade mit Wacholdersauce und Sauerkraut-Schupfnudeln	5,00 €
+* Lachsfilet mit Pommerysenfsauce, Salzkartoffeln und Blattspinat	6,50 €
 
 ---
 (Alle Angaben ohne Gewähr)
