@@ -1,42 +1,42 @@
-# Montag (14.10.2013)
+# Montag (04.11.2013)
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Penne Nudeln mit Rinderbolognese und Parmesankäse	5,50 €
-* Seelachsfilet mit Romanesco mit Chili und gerösteten Knoblauch dazu Petit Kartoffeln	6,50 €
+* Spaghetti mit pikanter Pepperoni-Tomaten-Sauce und Parmesankäse	5,50 €
+* Lachsfilet mit Drillingen und Paprika-Zuchini-Gemüse	6,50 €
 	
-# Dienstag (15.10.2013)	
+# Dienstag (05.11.2013)	
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Schnibbelbohneneintopf mit Mettwurst und einem Brötchen	5,00 €
-* Gänsebrust mit Maronenjus,Apfelrotkohl und Kartoffelklößen	10,00 €
+* Currywurst mit Pommes Frites und Krautsalat	5,00 €
+* Szegediner Gulasch mit Sauerkraut und Salzkartoffeln	5,50 €
 
-# Mittwoch (16.10.2013)
+# Mittwoch (06.11.2013)
 ###### Anja
 * missing data input
 
 ##### Kantine
-* Chili cone Carne mit gerösteten Chilis und Knoblauch Baguette	5,00 €
-* Pfefferspießbraten mit Kartoffelgratin und Salat	6,00 €
+* Gulaschsuppe vom Rind mit einem Brötchen	5,00 €
+* Peking Ente mit Basmatireis und Wokgemüse	7,00 €
 
-# Donnerstag (17.10.2013) 
+# Donnerstag (07.11.2013) 
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Schnitzel mit Zigeunersauce und Pommes Frites 	5,50 €
-* Wildschweingulasch mit Wacholdersauce, Rosenkohl und Spätzle	7,00 €
+* Paniertes Schnitzel vom Schweinerücken mit  Champignonsauce und Pommes Frites 	5,50 €
+* Frische Bratwurst mit Apfelrotkohl und Salzkartoffeln	5,50 €
 
-# Freitag (18.10.2013)
+# Freitag (08.11.2013)
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Grünkohl mit Mettwurst	5,00 €
-* Seelachsfilet mit Pestosauce Vichy Kartotten und Salzkartoffeln	6,50 €
+* Gefüllte Paprikaschote mit Tomatensauce und Reis	5,50 €
+* Paniertes Seelachsfilet mit Remoladensauce Salat und Salzkartoffeln	6,50 €
 
 ---
 (Alle Angaben ohne Gewähr)
