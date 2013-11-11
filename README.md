@@ -1,42 +1,42 @@
-# Montag (04.11.2013)
+# Montag (11.11.2013)
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Spaghetti mit pikanter Pepperoni-Tomaten-Sauce und Parmesankäse	5,50 €
-* Lachsfilet mit Drillingen und Paprika-Zuchini-Gemüse	6,50 €
-	
-# Dienstag (05.11.2013)	
+* Fusili mit Pepperontagemüse und Parmesankäse	5,50 €
+* Kap Seehechtfilet mit Senfsauce Sauerkraut a la creme und Salzkartoffeln	6,50 €
+
+# Dienstag (12.11.2013)	
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Currywurst mit Pommes Frites und Krautsalat	5,00 €
-* Szegediner Gulasch mit Sauerkraut und Salzkartoffeln	5,50 €
+* Erbseneintopf mit Mettwurst und einem Brötchen	5,00 €
+* Saltim Bocca von der Hähnchenbrust mit Rosmarinkartoffeln und Salat	6,00 €
 
-# Mittwoch (06.11.2013)
+# Mittwoch (13.11.2013)
 ###### Anja
 * missing data input
 
 ##### Kantine
-* Gulaschsuppe vom Rind mit einem Brötchen	5,00 €
-* Peking Ente mit Basmatireis und Wokgemüse	7,00 €
+* Frikadelle mit Rahmwirsing und Salzkartoffeln	5,50 €
+* Lummerbraten mit Kartoffelgratin und Vichy Speckbohnen	6,00 €
 
-# Donnerstag (07.11.2013) 
+# Donnerstag (14.11.2013) 
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Paniertes Schnitzel vom Schweinerücken mit  Champignonsauce und Pommes Frites 	5,50 €
-* Frische Bratwurst mit Apfelrotkohl und Salzkartoffeln	5,50 €
+* Paniertes Schnitzel vom Schweinerücken mit  Zigeunersauce und Pommes Frites 	5,50 €
+* Rindergeschnetzeltes in Süß-Saure-Sauce mit Basmati-Gemüsereis	6,00 €
 
-# Freitag (08.11.2013)
+# Freitag (15.11.2013)
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Gefüllte Paprikaschote mit Tomatensauce und Reis	5,50 €
-* Paniertes Seelachsfilet mit Remoladensauce Salat und Salzkartoffeln	6,50 €
+* Königsberger Klopse mit Kapernsauce und Reis	5,00 €
+* Lachsfilet mit Kräuterbutter, Risotto  und Spitzpaprika	6,50 €
 
 ---
 (Alle Angaben ohne Gewähr)
