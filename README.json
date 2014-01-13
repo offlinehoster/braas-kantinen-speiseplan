@@ -1,37 +1,37 @@
 {
 	"Donnerstag":{
-		"date":"21.11.2013",
+		"date":"16.01.2014",
 		"Braas Kantine":[
-			"Paniertes Schnitzel vom Schweinerücken mit Pfeffersauce und Pommes Frites 5,50",
-			"Sauerbraten mit Rotkohl und Kartoffelklößen 7,50"
+			"Grünkohl mit Kasseler 5,50",
+			"Schnitzel vom Schweini mit Champingongsauce und Pommes Frites 5,50"
 		]
 	},
 	"Mittwoch":{
-		"date":"20.11.2013",
+		"date":"15.01.2014",
 		"Braas Kantine":[
-			"Geflügelcurry mit Basmatireis 5,50",
-			"Serbische Bohnensuppe mit Rindfleisch, Cabanosischeiben und einem Brötchen 5,00"
+			"Gefülltes Schweinerückensteak mit Salsicciabrät dazu Rosmarinkartoffeln und Salati 6,50",
+			"Lasagne Bolognese vom Rind 5,50"
 		]
 	},
 	"Freitag":{
-		"date":"22.11.2013",
+		"date":"17.01.2014",
 		"Braas Kantine":[
-			"Grünkohl mit Mettwurst 5,00",
-			"Kabeljaufilet mit Maronensauce, Wirsinggemüse und Salzkartoffeln 6,50"
+			"Fischcurry süß Sauer mit Gemüse aus der Wokpfanne und Basmatireis 7,00",
+			"Szegediner Gulasch mit Sauerkraut und Semmelknödeln 5,50"
 		]
 	},
 	"Dienstag":{
-		"date":"19.11.2013",
+		"date":"14.01.2014",
 		"Braas Kantine":[
-			"Hähnenchenbrust mit Fetakäse überbacken, Kartoffelgratin und Salat 6,00",
-			"Reibekuchen mit Apfelmus 5,00"
+			"Mediteraner Linseneintopf mit Oregano, Gemüse und Kartoffelwürfel dazu Mettwursti 5,00",
+			"Putengyros mit Tzaziki,Ajwar,Zwiebeln,      Krautsalat und Pommes Frites 6,00"
 		]
 	},
 	"Montag":{
-		"date":"18.11.2013",
+		"date":"13.01.2014",
 		"Braas Kantine":[
-			"Fagottini mit Safransauce und Parmesankäse 5,50",
-			"Knurrhahnfilet mit Roman Herzog und Kartoffeln mit Oregano 6,50"
+			"Backfisch mit Dill-Senf-Dipp dazu Blattspinat und Salzkartoffeln 6,50",
+			"Penne Nudeln mit geröstetem Speck und Sahnesauce 5,50"
 		]
 	}
 }
