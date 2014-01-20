@@ -3,40 +3,40 @@
 * missing data input
 
 ###### Kantine
-* Penne Nudeln mit geröstetem Speck und Sahnesauce	5,50 €
-* Backfisch mit Dill-Senf-Dipp dazu Blattspinat und Salzkartoffeln	6,50 €
+* Tortellini mit Gemüsesauce und Parmesankäse	5,50 €
+* Lachsfilet mit Kohlrabi a la Creme und Kartoffelklößen	6,50 €
 
 # Dienstag (14.01.2014)	
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Mediteraner Linseneintopf mit Oregano, Gemüse und Kartoffelwürfel dazu Mettwursti	5,00 €
-* Putengyros mit Tzaziki,Ajwar,Zwiebeln,           Krautsalat und Pommes Frites	6,00 €
+* Geflügelrostbratwurst mit Chilisauce und Pommes Frites	5,00 €
+* Schweinefiletgeschnetzeltes in Basilikumsauce mit Reis oder Kartoffelwedges  und Vichy Karotten	6,00 €
 
 # Mittwoch (15.01.2014)
 ###### Anja
 * missing data input
 
 ##### Kantine
-* Lasagne Bolognese vom Rind	5,50 €
-* Gefülltes Schweinerückensteak mit Salsicciabrät dazu Rosmarinkartoffeln und Salati	6,50 €
+* Erbseneintopf mit Mettwurst und einem Brötchen	5,00 €
+* Hähnchenbustfilet mit Rahmsauce Kartoffelgratin und Salat	6,00 €
 
 # Donnerstag (16.01.2014) 
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Schnitzel vom Schweini mit Champingongsauce und Pommes Frites	5,50 €
-* Grünkohl mit Kasseler	5,50 €
+* Schnitzel vom Schweini mit Pfefferrahmsauce und Pommes Frites	5,50 €
+* BBQ Chickenhaxen mit Gemüsereis	5,50 €
 
 # Freitag (17.01.2014)
 ###### Anja
 * missing data input
 
 ###### Kantine
-* Szegediner Gulasch mit Sauerkraut und  Semmelknödeln	5,50 €
-* Fischcurry süß Sauer mit Gemüse aus der Wokpfanne und Basmatireis 	7,00 €
+* Frische Bratwurst mit Salzkartoffeln und Blaukraut	5,50 €
+* Seelachsfilet mit Senfsauce und Sauerkraut-Piroggen	6,50 €
 
 ---
 (Alle Angaben ohne Gewähr)
